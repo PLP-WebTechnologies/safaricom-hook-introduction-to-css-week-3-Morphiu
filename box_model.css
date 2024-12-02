@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(255, 0, 0, 0.425);
+}
+.card {
+  background-color: aliceblue;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 20px;
+}
+.card h1{
+    text-align: center;
+}
+div a:hover {
+  cursor: pointer;
+  color: red;
+  background-color: rgb(218, 164, 164);
+  transition: 0.8s;
+  border-radius: 5px;
+}
